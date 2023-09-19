@@ -1,0 +1,31 @@
+-- import: rutukapate.github.io/challenge10/assets
+
+-- common.author-meta rutuja: Rutuja Kapate
+profile: Web Developer
+bio-url: /author/
+image: $assets.files.images.author.webp
+company: Company name
+
+Lorem ipsum dolor sit amet
+
+-- ds.page:
+document-title: Fastn Blog doc-site
+site-name: Rutuja K.
+document-description: Simple, easy-to-use blog template to build your own documentation blog, personal blog, or buisness blog. Change colours and typography effortlessly.
+document-image: https://fastn.com/-/fastn.com/images/fastn-logo.png
+
+-- ds.author-bio:
+author: $rutuja
+
+-- ds.markdown:
+
+Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading.
+
+-- ds.h1: Meet the face behind the posts
+
+I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
+
+This is a great space to write a long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.
+
+
+-- end: ds.page

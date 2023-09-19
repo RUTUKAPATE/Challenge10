@@ -1,40 +1,44 @@
 -- spa.page:
 full-width: true
 sidebar: false
+document-title: Fastn Landing doc-site
+site-name: Rutuja K.
+github-url: https://github.com/rutukapate/challenge10
+github-icon: true
+login-button: true
+breadcrumb: true
 
--- spa.hero-with-image: We transform ideas into digital outcomes.
+-- spa.hero-with-image: The Best Landing Page Designs to Inspire Your Next Layout
 cta-primary: Learn More
 cta-primary-link: #content
-image: $assets.files.assets.landing.svg
+image: $assets.files.assets.landingpage.avif
 
-We are an award-winning strategic design company that provides consultancy
-services and help you create outstanding digital products.
+The no-code landing page of your dreams. Rustle up a beautiful landing page in minutes, and rake in the leads like a boss.
 
--- spa.content: Built for the next generation of small business
+-- spa.hero-image-right: Get started in minutes
+image: $assets.files.assets.right-1.webp
 
-Fastn is an all-in-one payments platform where businesses can connect, transact,
-and grow together.
+Dive right in with a template that’s ready to go, and launch your page without a line of code. Typeforms can rank on Google, and you can redirect to any URL upon completion.
 
--- spa.hero-image-left: Create
-image: $assets.files.assets.left-img1.svg
+-- spa.hero-image-left: Collect quality data
+image: $assets.files.assets.left-1.webp
 
-Welcome Studio gives you all the tools you need to create and host virtual
-experiences that look awesome and put your brand centerstage.
+Typeforms respond to answers to show only relevant questions, like a real conversation—no annoying pop-ups!  When people enjoy the experience, they’ll give better answers.
 
--- spa.hero-image-right: Engage
-image: $assets.files.assets.right-img.svg
+-- spa.hero-image-right: Effortless elegance
+image: $assets.files.assets.right-2.webp
 
 Welcome Studio gives you all the tools you need to create and host virtual
 experiences that look awesome and put your brand centerstage.
 
--- spa.hero-image-left: Analyze
-image: $assets.files.assets.left-img2.svg
+-- spa.hero-image-left: Automate with 120+ integrations
+image: $assets.files.assets.left-2.webp
 
-Welcome Studio gives you all the tools you need to create and host virtual
-experiences that look awesome and put your brand centerstage.
+Send responses to your favorite apps without lifting a finger:pings in Slack when you get a response, syncing with Google Sheets, and lots more.
+
 
 -- spa.hero-with-image: Experiences
-image: $assets.files.assets.landing.svg
+image: $assets.files.assets.landingpage2.png
 align-right: true
 
 Lorem ipsum dolor sit amet
@@ -49,9 +53,9 @@ business.
 testimonials: $common.list-of-testimonials
 nav: $common.navs
 
--- spa.features-card: We Transform ideas into digital outcomes
+-- spa.features-card: Time to launch that landing page
 features: $common.list-of-features
-tag: KICKER
+tag: Kyle Maltz
 
 We are an award-winning strategic design company that provides consultancy
 services and help you create outstanding digital products.
@@ -65,7 +69,6 @@ platform, seamlessly across all digital channels.
 -- spa.logo-cloud: Trusted by the top companies in this industry
 logo-list: $common.list-of-logos
 
-The only SaaS business platform that combines CRM, marketing automation &
-commerce.
+Rated 4.5 out of 600+ reviews on fastn.com
 
 -- end: spa.page
