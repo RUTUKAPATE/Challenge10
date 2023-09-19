@@ -1,19 +1,31 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: rutukapate.github.io/challenge10
+favicon: /-/rutukapate.github.io/challenge10/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/midnight-storm as ds
 -- fastn.dependency: fastn-community.github.io/footer
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/spa
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: rutukapate.github.io/challenge10/FASTN/spa
+-- fastn.auto-import: rutukapate.github.io/challenge10/assets
+-- fastn.auto-import: rutukapate.github.io/challenge09
 -- fastn.auto-import: ds
 -- fastn.auto-import: ds/common
 
 -- fastn.sitemap:
 
 # Home: index.html
+# Blog: /blog
+- Blogs: /blog/
+  - Post-1: post/post-1/
+  - Post-2: post/post-2/
+  - Post-3: post/post-3/
+  - Post-4: post/post-4/
+  - Post-5: post/post-5/
+  - Post-6: post/post-6/
+  - Post-7: post/post-7/
+  - Post-8: post/post-8/
+
 # Services: /#features-card
 # About: /#content
 # Testimonials: /#testimonials

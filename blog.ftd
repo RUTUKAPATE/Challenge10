@@ -1,0 +1,45 @@
+-- import: rutukapate.github.io/challenge10/post/post-1
+-- import: rutukapate.github.io/challenge10/post/post-2
+-- import: rutukapate.github.io/challenge10/post/post-3
+-- import: rutukapate.github.io/challenge10/post/post-4
+-- import: rutukapate.github.io/challenge10/post/post-5
+-- import: rutukapate.github.io/challenge10/post/post-6
+-- import: rutukapate.github.io/challenge10/post/post-7
+-- import: rutukapate.github.io/challenge10/post/post-8
+-- import: rutukapate.github.io/challenge10/assets
+
+-- ds.page:
+document-title: Fastn Blog doc-site
+site-name: Rutuja K.
+sidebar: true
+document-description: Simple, easy-to-use blog template to build your own documentation blog, personal blog, or buisness blog. Change colours and typography effortlessly.
+
+-- ftd.container:
+margin.px: 10
+padding.px: 10
+
+-- ds.posts:
+
+-- ds.image-first:
+post-data: $post-1.meta
+
+-- ds.image-first:
+post-data: $post-2.meta
+
+-- ds.featured-post:
+post-data: $post-3.meta
+
+-- ds.image-first:
+post-data: $post-4.meta
+
+-- ds.image-first:
+post-data: $post-5.meta
+
+-- ds.featured-post:
+post-data: $post-6.meta
+
+-- end: ds.posts
+
+-- end: ftd.container
+
+-- end: ds.page
