@@ -6,7 +6,6 @@ site-name: Rutuja K.
 github-url: https://github.com/rutukapate/challenge10
 github-icon: true
 login-button: true
-breadcrumb: true
 
 -- spa.hero-with-image: The Best Landing Page Designs to Inspire Your Next Layout
 cta-primary: Learn More
